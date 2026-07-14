@@ -1,0 +1,58 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#EEF2F8"/>
+      <stop offset="1" stop-color="#E3E8F1"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2F6CF6"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F1B3D"/>
+      <stop offset="1" stop-color="#0A1230"/>
+    </linearGradient>
+    <filter id="shadow" x="840" y="240" width="700" height="560" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#0B132B" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1600" height="86" fill="#F8FAFC" stroke="#DBE3EF"/>
+
+  <text x="20" y="52" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">Northstar</text>
+  <text x="210" y="52" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" fill="#64748B">New In</text>
+  <text x="310" y="52" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" fill="#64748B">Women</text>
+  <text x="430" y="52" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" fill="#64748B">Men</text>
+
+  <rect x="770" y="26" width="560" height="42" rx="21" fill="#EDF2F8" stroke="#D5DEE9"/>
+  <text x="820" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="600" fill="#8CA0B8">Search products...</text>
+
+  <rect x="20" y="142" width="188" height="44" rx="22" fill="#E8F0FF"/>
+  <text x="52" y="170" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700" fill="#2F6CF6">New collection is live</text>
+
+  <text x="20" y="286" font-family="Inter, Arial, sans-serif" font-size="88" font-weight="800" fill="#0F172A">Elevate your everyday</text>
+  <text x="20" y="382" font-family="Inter, Arial, sans-serif" font-size="88" font-weight="800" fill="#0F172A">with premium</text>
+  <text x="20" y="478" font-family="Inter, Arial, sans-serif" font-size="88" font-weight="800" fill="#0F172A">essentials.</text>
+
+  <text x="20" y="560" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="500" fill="#475569">Discover refined apparel, accessories, and home pieces crafted for modern living.</text>
+
+  <rect x="20" y="620" width="200" height="62" rx="31" fill="url(#chip)"/>
+  <text x="55" y="659" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">Shop collection</text>
+  <rect x="236" y="620" width="220" height="62" rx="31" fill="#F8FAFC" stroke="#D5DEE9"/>
+  <text x="275" y="659" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" fill="#334155">Explore lookbook</text>
+
+  <g filter="url(#shadow)">
+    <rect x="860" y="220" width="640" height="500" rx="40" fill="url(#panel)"/>
+    <rect x="900" y="260" width="560" height="420" rx="30" fill="#2A3553" stroke="#3A4663"/>
+    <text x="930" y="315" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" fill="#B4C0D8">EDITOR'S PICK</text>
+    <text x="930" y="380" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#F8FAFC">The signature edit.</text>
+    <text x="930" y="430" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500" fill="#CBD5E1">Clean lines, thoughtful details, and versatile layers.</text>
+    <rect x="930" y="470" width="250" height="110" rx="22" fill="#4B556E"/>
+    <rect x="1198" y="470" width="240" height="110" rx="22" fill="#4B556E"/>
+    <text x="950" y="515" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" fill="#DCE4F2">Free express delivery</text>
+    <text x="950" y="555" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="800" fill="#FFFFFF">24h dispatch</text>
+    <text x="1218" y="515" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" fill="#DCE4F2">Curated quality</text>
+    <text x="1218" y="555" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="800" fill="#FFFFFF">Verified pieces</text>
+  </g>
+</svg>
