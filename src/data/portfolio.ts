@@ -259,7 +259,7 @@ export const projectsContent: ProjectsContent = {
         height: 500,
       },
       tech: ["Next.js", "React", "Tailwind CSS", "Supabase", "CSS"],
-      liveUrl: "#",
+      liveUrl: "https://ecommerce-boilerplate-chi.vercel.app/",
       codeUrl: "https://github.com/hiteshjogiya/ecommerce-boilerplate",
     },
     {
